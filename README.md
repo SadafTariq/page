@@ -12,7 +12,7 @@ This is a project I did for my DataCamp's Data Analyst (Associate) Certification
 - A report is generated and published on datacamp's workspace
 
 
-## [AdventureWorksCycles Database analysis](https://github.com/SadafTariq/AdventureWorksCycles)  <img src="AWC.png" alt="AdventureWorksCycle" width="40" height="40"/>
+## [AdventureWorksCycles Database analysis](https://github.com/SadafTariq/AdventureWorksCycles)  <img src="AWC.png" alt="AdventureWorksCycle" width="150" height="50"/>
 
 This is an Interim project I did during Generation UK&I Bootcamp, where I analysed the database and answered several business problems
 
