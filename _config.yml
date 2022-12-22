@@ -1,6 +1,5 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
+title: Leap Day theme
+description: Leap Day is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-hacker
-#nothing
+theme: jekyll-theme-leap-day
