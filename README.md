@@ -1,7 +1,7 @@
 # Data Analytics Projects
 
 
-## [Vivendo Food Claims Case Study](https://github.com/SadafTariq/VivendoFoodClaims) <img src="DataCamp.png" alt="DataCamp" width="40" height="40"/>
+## [Vivendo Food Claims Case Study](https://sadaftariq.github.io/Vivend-Food-Claims/) <img src="DataCamp.png" alt="DataCamp" width="40" height="40"/>
 
 This is a project I did for my DataCamp's Data Analyst (Associate) Certification, where I answered a number of business questions
 
