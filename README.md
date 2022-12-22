@@ -1,4 +1,4 @@
-# Portfolio
+# Data Analytics Projects
 
 
 ## [Vivendo Food Claims Case Study](https://github.com/SadafTariq/VivendoFoodClaims)
