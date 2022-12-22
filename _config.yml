@@ -1,5 +1,5 @@
 title: Cayman theme
 description: My name is Sadaf Tariq. I am an aspiring Data Analyst. In this page I have added few projects which I did during my training and certification.
 show_downloads: False
-google_analytics:
+#google_analytics:
 theme: jekyll-theme-cayman
