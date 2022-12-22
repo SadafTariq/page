@@ -1,7 +1,7 @@
 # Data Analytics Projects
 
 
-## [Vivendo Food Claims Case Study](https://github.com/SadafTariq/VivendoFoodClaims) ![DataCamp](DataCamp.png)
+## [Vivendo Food Claims Case Study](https://github.com/SadafTariq/VivendoFoodClaims) <img src="DataCamp.png" alt="DataCamp" width="40" height="40"/>
 
 This is a project I did for my DataCamp's Data Analyst (Associate) Certification, where I answered a number of business questions
 
@@ -12,7 +12,7 @@ This is a project I did for my DataCamp's Data Analyst (Associate) Certification
 - A report is generated and published on datacamp's workspace
 
 
-## [AdventureWorksCycles Database analysis](https://github.com/SadafTariq/AdventureWorksCycles)
+## [AdventureWorksCycles Database analysis](https://github.com/SadafTariq/AdventureWorksCycles)  <img src="AWC.png" alt="AdventureWorksCycle" width="40" height="40"/>
 
 This is an Interim project I did during Generation UK&I Bootcamp, where I analysed the database and answered several business problems
 
