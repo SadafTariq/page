@@ -21,4 +21,4 @@ This is an Interim project I did during Generation UK&I Bootcamp, where I analys
 - Utilized visualization skills to support findings and trends in the dataset
 - Created a presentation deck and clearly communicated analytical results
 - A report was generated to defend the analysis
-- [try](https://github.com/SadafTariq/-try/blob/main/2022.pbix)
+
